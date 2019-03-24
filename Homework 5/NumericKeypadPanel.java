@@ -1,5 +1,5 @@
 /*
- * Programming Project 5 - NumericKeypadPanek.java 
+ * Programming Project 5 - NumericKeypadPanel.java 
  * Joao Paulo D. S. Ferreira
  * CSIT 112 - Fundamentals of Programming II
  * Dr. Dajin Wang
