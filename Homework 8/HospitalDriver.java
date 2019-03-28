@@ -7,7 +7,7 @@
  */
 
 /* 
- * Driver using to the demonstrate de functionality of Inheritance in Java.
+ * Driver using to demonstrate de functionality of Inheritance in Java.
  * It creates multiple of objects that inherited the HospitalEmployee class,
  * it also shows how a child class can call a parent method.
  */
